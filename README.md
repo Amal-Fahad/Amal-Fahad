@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Amal Fahad
 
-<!--
-**Amal-Fahad/Amal-Fahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Frontend Developer with experience in React, Next.js, Tailwind CSS, TypeScript and more.
 
-Here are some ideas to get you started:
+🚀 Check out my portfolio: [amalfahad.com](https://amalfahad.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- React, Next.js, TypeScript
+- SCSS, Tailwind CSS, Ant Design
+- Redux Toolkit, Recoil, Bootstrap
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/amalfahadva/)
+- 🌐 [Portfolio](https://amalfahad.com)
